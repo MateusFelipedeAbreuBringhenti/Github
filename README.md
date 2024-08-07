@@ -6,6 +6,7 @@
 ##### git status > verifica o status
 ##### git pull > atualiza o repositorio local
 ##### git pull (significado) > significa basicamnete dois git fetch e git merge
+##### git log > acessa o historico de commits
 ##### 11- Acesse o histórico da sua branch atual (main): git log
 ##### 12- Crie uma tag do seu projeto:
 ##### 13- Inclua um título no index.html (ou outra modificação), crie uma branch com o nome feature/inclusão-do-título.
