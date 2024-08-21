@@ -25,3 +25,5 @@
 ##### 20- Crie um arquivo tipo txt e guarde em sua stash: > git add "arquivo.txt" e depois git stash
 ##### 21- Como fazer um Pull-Request? > git push origin "nomedabranch"
 ##### 22- Como adicionar Reviewers em seu repositório:> não sei
+
+##### naruto melhor que boruto
