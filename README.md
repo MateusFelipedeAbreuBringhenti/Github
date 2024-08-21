@@ -10,12 +10,13 @@
 ##### git merge > permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única
 ##### git log > acessa o historico de commits
 ##### stash aply > Este comando pega o stash mais alto na pilha e o aplica ao repositório stash@{0}
-##### 
+##### git stash > do local para a stash
+##### git merge > do repositorio local para o local
 ## Perguntas
 ##### 11- Acesse o histórico da sua branch atual (main): > git log
-##### 12- Crie uma tag do seu projeto: > git tag <nome>
-##### 13- Inclua um título no index.html (ou outra modificação), crie uma branch com o nome feature inclusão-do-título.
-##### 14- Como acessar uma branch? > git checkout "nome"
+##### 12- Crie uma tag do seu projeto: > git tag "nome"
+##### 13- Inclua um título no index.html (ou outra modificação), crie uma branch com o nome feature/inclusão-do-título. > git checkout -b feature/inclusao-do-titulo
+##### 14- Como acessar uma branch? > git checkout main
 ##### 15- Como trocar de branch? > git checkout "nome"
 ##### 15- Como deletar uma branch? > git branch -d "nome"
 ##### 16- Entre na main branch e faça um merge da branch desejada para integrar ao main. > git merge "nome"
@@ -25,5 +26,3 @@
 ##### 20- Crie um arquivo tipo txt e guarde em sua stash: > git add "arquivo.txt" e depois git stash
 ##### 21- Como fazer um Pull-Request? > git push origin "nomedabranch"
 ##### 22- Como adicionar Reviewers em seu repositório:> não sei
-
-##### naruto melhor que boruto
